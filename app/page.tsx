@@ -18,7 +18,7 @@ export default async function HomePage() {
       {/* Bluesky-style header */}
       <header className="sticky top-0 z-40 bg-background/95 backdrop-blur-sm border-b border-border">
         <div className="max-w-[600px] mx-auto px-4 h-[53px] flex items-center">
-          <h1 className="text-[17px] font-bold text-foreground">Openwall</h1>
+          <h1 className="text-[17px] font-bold text-foreground">Startorigin</h1>
         </div>
       </header>
 
