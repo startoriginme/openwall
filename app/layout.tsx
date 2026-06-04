@@ -3,8 +3,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Openwall',
-  description: 'Anonymous wall. Write anything you want — no account needed.',
+  title: 'Startorigin',
+  description: 'anything anytime',
   generator: 'v0.app',
 }
 
